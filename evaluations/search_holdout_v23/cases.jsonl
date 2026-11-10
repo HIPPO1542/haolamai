@@ -1,0 +1,42 @@
+{"case_id": "H23-001", "category": "keyword", "store_id": "technology", "query": "pin AA Alkaline", "expected_product_ids": ["same"]}
+{"case_id": "H23-002", "category": "keyword", "store_id": "beauty", "query": "sua rua mat tra xanh", "expected_product_ids": ["same"]}
+{"case_id": "H23-003", "category": "keyword", "store_id": "home", "query": "Ấm đun inox", "expected_product_ids": ["kettle"]}
+{"case_id": "H23-004", "category": "keyword", "store_id": "pets", "query": "Cát mèo đậu nành", "expected_product_ids": ["litter"]}
+{"case_id": "H23-005", "category": "keyword", "store_id": "garden", "query": "Hạt giống cải ngọt", "expected_product_ids": ["seed"]}
+{"case_id": "H23-006", "category": "keyword", "store_id": "books", "query": "Sách hình học cơ bản", "expected_product_ids": ["geometry"]}
+{"case_id": "H23-007", "category": "tenant", "store_id": "technology", "query": "Sữa rửa mặt trà xanh", "expected_product_ids": []}
+{"case_id": "H23-008", "category": "tenant", "store_id": "beauty", "query": "Pin AA Alkaline", "expected_product_ids": []}
+{"case_id": "H23-009", "category": "tenant", "store_id": "unknown", "query": "menu", "expected_product_ids": []}
+{"case_id": "H23-010", "category": "tenant", "store_id": "home", "query": "Cát mèo dưới 200k", "expected_product_ids": []}
+{"case_id": "H23-011", "category": "price", "store_id": "technology", "query": "pin dưới 36k", "expected_product_ids": []}
+{"case_id": "H23-012", "category": "price", "store_id": "technology", "query": "pin không quá 36k", "expected_product_ids": ["same"]}
+{"case_id": "H23-013", "category": "price", "store_id": "garden", "query": "hạt giống trên 25k", "expected_product_ids": []}
+{"case_id": "H23-014", "category": "price", "store_id": "garden", "query": "hạt giống tối thiểu 25k", "expected_product_ids": ["seed"]}
+{"case_id": "H23-015", "category": "price", "store_id": "silk", "query": "khăn từ 310 đến 350k", "expected_product_ids": ["red", "burgundy"]}
+{"case_id": "H23-016", "category": "price", "store_id": "silk", "query": "khăn ngân sách 320k", "expected_product_ids": ["red"]}
+{"case_id": "H23-017", "category": "price", "store_id": "home", "query": "ấm không vượt quá 0,45 triệu", "expected_product_ids": ["kettle"]}
+{"case_id": "H23-018", "category": "price", "store_id": "beauty", "query": "sữa rửa mặt dưới 125.000₫", "expected_product_ids": []}
+{"case_id": "H23-019", "category": "price", "store_id": "home", "query": "ấm", "expected_product_ids": [], "filters": {"min_price": 500000, "max_price": 600000}}
+{"case_id": "H23-020", "category": "stock", "store_id": "technology", "query": "Pin sạc AA còn hàng không?", "expected_product_ids": ["charge"]}
+{"case_id": "H23-021", "category": "stock", "store_id": "technology", "query": "pin còn hàng", "expected_product_ids": ["same"]}
+{"case_id": "H23-022", "category": "stock", "store_id": "garden", "query": "chậu hết hàng", "expected_product_ids": ["pot"]}
+{"case_id": "H23-023", "category": "stock", "store_id": "beauty", "query": "tinh dầu", "expected_product_ids": [], "filters": {"in_stock": true}}
+{"case_id": "H23-024", "category": "stock", "store_id": "home", "query": "bình", "expected_product_ids": ["water"], "filters": {"in_stock": false}}
+{"case_id": "H23-025", "category": "attributes", "store_id": "technology", "query": "tai nghe màu đen", "expected_product_ids": ["headset"]}
+{"case_id": "H23-026", "category": "attributes", "store_id": "silk", "query": "khăn màu đỏ đô", "expected_product_ids": ["burgundy"]}
+{"case_id": "H23-027", "category": "attributes", "store_id": "pets", "query": "dây dắt màu xanh navy", "expected_product_ids": ["leash"]}
+{"case_id": "H23-028", "category": "attributes", "store_id": "home", "query": "ấm", "expected_product_ids": ["kettle"], "filters": {"attributes": {"material": "inox", "capacity": "1.8L"}}}
+{"case_id": "H23-029", "category": "attributes", "store_id": "beauty", "query": "", "expected_product_ids": ["same"], "filters": {"attributes": {"brand": "Leaf", "capacity": "150ml"}}}
+{"case_id": "H23-030", "category": "attributes", "store_id": "books", "query": "bút chì", "expected_product_ids": ["pencil"], "filters": {"attributes": {"độ cứng": "2B"}}}
+{"case_id": "H23-031", "category": "attributes", "store_id": "beauty", "query": "sữa rửa mặt", "expected_product_ids": [], "filters": {"attributes": {"màu": "trắng"}}}
+{"case_id": "H23-032", "category": "inactive", "store_id": "silk", "query": "khăn màu xanh", "expected_product_ids": []}
+{"case_id": "H23-033", "category": "unsupported", "store_id": "technology", "query": "laptop dưới 1 triệu", "expected_product_ids": []}
+{"case_id": "H23-034", "category": "unsupported", "store_id": "books", "query": "' OR 1=1 --", "expected_product_ids": []}
+{"case_id": "H23-035", "category": "live_update", "store_id": "home", "query": "ấm dưới 400k", "expected_product_ids": ["kettle"], "mutations": [{"store_id": "home", "id": "kettle", "values": {"price_vnd": 390000}}]}
+{"case_id": "H23-036", "category": "live_update", "store_id": "beauty", "query": "sữa rửa mặt còn hàng", "expected_product_ids": [], "mutations": [{"store_id": "beauty", "id": "same", "values": {"stock": 0}}]}
+{"case_id": "H23-037", "category": "live_update", "store_id": "garden", "query": "hạt giống", "expected_product_ids": [], "mutations": [{"store_id": "garden", "id": "seed", "values": {"active": 0}}]}
+{"case_id": "H23-038", "category": "paraphrase", "store_id": "home", "query": "bình nước còn sẵn", "expected_product_ids": []}
+{"case_id": "H23-039", "category": "paraphrase", "store_id": "technology", "query": "tai nghe không dây", "expected_product_ids": ["headset"]}
+{"case_id": "H23-040", "category": "unit_conversion", "store_id": "home", "query": "ấm", "expected_product_ids": ["kettle"], "filters": {"attributes": {"dung tích": "1800ml"}}}
+{"case_id": "H23-041", "category": "paraphrase", "store_id": "pets", "query": "đồ vệ sinh cho mèo", "expected_product_ids": ["litter"]}
+{"case_id": "H23-042", "category": "range_shorthand", "store_id": "silk", "query": "khăn giá 300-360k", "expected_product_ids": ["red", "burgundy"]}

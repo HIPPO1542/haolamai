@@ -1,0 +1,42 @@
+{
+  "audit_type": "HEURISTIC ONLY: high-risk records withheld from candidate, not manually validated",
+  "original_counts": {
+    "train": 8005,
+    "validation": 300,
+    "test_external": 1072
+  },
+  "candidate_counts": {
+    "train": 7833,
+    "validation": 290,
+    "test_external": 1033
+  },
+  "independent_benchmark": 126,
+  "high_risk_records": 221,
+  "high_risk_by_reason": {
+    "other_chatbot_identity_in_answer": 209,
+    "unverified_action_handoff": 6,
+    "unverified_action_booking": 4,
+    "unverified_action_cancel": 1,
+    "unverified_action_order": 1
+  },
+  "medium_risk_records": 641,
+  "medium_risk_by_reason": {
+    "long_answer_review": 626,
+    "possible_pii": 7,
+    "medical_or_regulated_context": 9
+  },
+  "exact_customer_question_overlap_counts_including_context_variations": {
+    "train_vs_validation": 10,
+    "train_vs_test_external": 9,
+    "validation_vs_test_external": 4
+  },
+  "limitations": [
+    "Some high-risk flags may be false positives; review before discarding permanently",
+    "Some wrong facts or cross-store answers remain uncaught",
+    "Medium-risk records remain in candidate until manual review",
+    "No semantic duplicate, license/provenance or human quality certification",
+    "No model was trained or evaluated"
+  ],
+  "input_dir": "/mnt/data/quality_audit_v2_input",
+  "output_dir": "/mnt/data/quality_audit_v2_out"
+}

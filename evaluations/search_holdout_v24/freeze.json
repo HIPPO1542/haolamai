@@ -1,0 +1,29 @@
+{
+  "created_utc": "2026-11-09T08:35:19.386208+00:00",
+  "cases": 65,
+  "fixture_domains": [
+    "aquarium",
+    "cycling",
+    "irrigation",
+    "lab",
+    "meeting",
+    "motor",
+    "music",
+    "safety",
+    "sewing",
+    "welding"
+  ],
+  "policy": "New authored holdout. No algorithm changes after first results; not third-party blind certification.",
+  "product_names_absent_from_development_tests": true,
+  "sha256": {
+    "myai\\retrieval.py": "c457db1da55af3adb12d3142d84f3b7360af0422cd63962034e1c6f50961d85b",
+    "myai\\normalization.py": "2ab512367eb6beefa60060a97851c38ec1b2b52643736ef4b681d4e100783d5c",
+    "myai\\search_lexicon.json": "4777d2d36775d7f2166b303dcedaf7c3e2d9c3fe404ae3acb6cae2f3907bde70",
+    "myai\\db.py": "979ece8e7c4358a1af70f50707c1dfbf38a255858232254f456271996345e1c7",
+    "myai\\engine.py": "d11be68273d1417bb6e5dd6bf6321e1d29fda0f5a9e68cdc5ecdb6f749ad89ad",
+    "myai\\grounding.py": "ea4760b7fb8fa3bdf9918b708848ff9b5cda76e2454b141737834c470da36bba",
+    "myai\\text_index.py": "5e8e7769492bbe5135bee7c959d918c35ba63527a44c87d9058fe81ed5fc3666",
+    "evaluations\\search_holdout_v24\\catalog.json": "6be946c274922569268dfd75cef9fecc794358f30efe4ed987176b54612e9f60",
+    "evaluations\\search_holdout_v24\\cases.jsonl": "e562499106145ac6fe365120e6b612d9fae456197752164ec005dd8f6bc91f00"
+  }
+}

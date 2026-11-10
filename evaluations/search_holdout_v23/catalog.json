@@ -1,0 +1,185 @@
+[
+  {
+    "store_id": "technology",
+    "id": "same",
+    "name": "Pin AA Alkaline",
+    "price_vnd": 36000,
+    "stock": 12,
+    "attributes": {
+      "thương hiệu": "Volt",
+      "loại": "AA"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "technology",
+    "id": "headset",
+    "name": "Tai nghe Studio BT",
+    "price_vnd": 790000,
+    "stock": 4,
+    "attributes": {
+      "kết nối": "Bluetooth",
+      "màu": "đen"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "technology",
+    "id": "charge",
+    "name": "Pin sạc AA",
+    "price_vnd": 125000,
+    "stock": 0,
+    "attributes": {
+      "thương hiệu": "Volt"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "beauty",
+    "id": "same",
+    "name": "Sữa rửa mặt trà xanh",
+    "price_vnd": 125000,
+    "stock": 7,
+    "attributes": {
+      "dung tích": "150ml",
+      "thương hiệu": "Leaf"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "beauty",
+    "id": "oil",
+    "name": "Tinh dầu quế",
+    "price_vnd": 95000,
+    "stock": 0,
+    "attributes": {
+      "dung tích": "10ml"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "home",
+    "id": "kettle",
+    "name": "Ấm đun inox",
+    "price_vnd": 450000,
+    "stock": 2,
+    "attributes": {
+      "dung tích": "1.8L",
+      "chất liệu": "inox"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "home",
+    "id": "water",
+    "name": "Bình lọc nước",
+    "price_vnd": 320000,
+    "stock": 0,
+    "attributes": {
+      "dung tích": "2L"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "pets",
+    "id": "litter",
+    "name": "Cát mèo đậu nành",
+    "price_vnd": 120000,
+    "stock": 5,
+    "attributes": {
+      "khối lượng": "6L"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "pets",
+    "id": "leash",
+    "name": "Dây dắt nylon",
+    "price_vnd": 90000,
+    "stock": 10,
+    "attributes": {
+      "chất liệu": "nylon",
+      "màu": "xanh navy"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "garden",
+    "id": "seed",
+    "name": "Hạt giống cải ngọt",
+    "price_vnd": 25000,
+    "stock": 100,
+    "attributes": {
+      "loại": "rau"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "garden",
+    "id": "pot",
+    "name": "Chậu đất nung",
+    "price_vnd": 35000,
+    "stock": 0,
+    "attributes": {
+      "chất liệu": "đất nung"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "books",
+    "id": "geometry",
+    "name": "Sách hình học cơ bản",
+    "price_vnd": 85000,
+    "stock": 3,
+    "attributes": {
+      "ngôn ngữ": "tiếng Việt"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "books",
+    "id": "pencil",
+    "name": "Bút chì 2B",
+    "price_vnd": 8000,
+    "stock": 0,
+    "attributes": {
+      "độ cứng": "2B"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "silk",
+    "id": "red",
+    "name": "Khăn lụa đỏ",
+    "price_vnd": 310000,
+    "stock": 3,
+    "attributes": {
+      "màu": "đỏ",
+      "chất liệu": "lụa"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "silk",
+    "id": "burgundy",
+    "name": "Khăn lụa đỏ đô",
+    "price_vnd": 350000,
+    "stock": 2,
+    "attributes": {
+      "màu": "đỏ đô",
+      "chất liệu": "lụa"
+    },
+    "active": 1
+  },
+  {
+    "store_id": "silk",
+    "id": "hidden",
+    "name": "Khăn lụa xanh",
+    "price_vnd": 200000,
+    "stock": 2,
+    "attributes": {
+      "màu": "xanh"
+    },
+    "active": 0
+  }
+]

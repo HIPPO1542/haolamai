@@ -1,0 +1,31 @@
+﻿id,name,price_vnd,stock,description,attributes_json,active
+F001,Bánh tráng trộn truyền thống,25000,26,Chua cay nhẹ; gói 150g.,"{""vị"": ""chua cay nhẹ"", ""khối lượng"": ""150g"", ""loại"": ""ăn liền""}",1
+F002,Bánh tráng bơ tỏi,28000,14,"Thơm bơ tỏi, không cay; gói 120g.","{""vị"": ""không cay"", ""khối lượng"": ""120g"", ""loại"": ""ăn liền""}",1
+F003,Bánh tráng sa tế,27000,0,Cay vừa; gói 140g.,"{""vị"": ""cay vừa"", ""khối lượng"": ""140g"", ""loại"": ""ăn liền""}",1
+F004,Khô gà lá chanh,39000,18,"Cay nhẹ, thơm lá chanh; túi 100g.","{""vị"": ""cay nhẹ"", ""khối lượng"": ""100g"", ""loại"": ""đồ khô""}",1
+F005,Khô bò miếng,89000,9,"Vị đậm đà, cay vừa; túi 100g.","{""vị"": ""cay vừa"", ""khối lượng"": ""100g"", ""loại"": ""đồ khô""}",1
+F006,Khô heo cháy tỏi,59000,0,"Thơm tỏi, cay nhẹ; túi 100g.","{""vị"": ""cay nhẹ"", ""khối lượng"": ""100g"", ""loại"": ""đồ khô""}",1
+F007,Cơm cháy chà bông,32000,21,"Giòn, mặn ngọt, không cay; túi 120g.","{""vị"": ""không cay"", ""khối lượng"": ""120g"", ""loại"": ""ăn liền""}",1
+F008,Cơm cháy mắm hành,30000,11,"Giòn, vị mắm hành, cay nhẹ; túi 120g.","{""vị"": ""cay nhẹ"", ""khối lượng"": ""120g"", ""loại"": ""ăn liền""}",1
+F009,Rong biển cháy tỏi,22000,35,"Giòn, thơm tỏi, không cay; gói 40g.","{""vị"": ""không cay"", ""khối lượng"": ""40g"", ""loại"": ""ăn liền""}",1
+F010,Rong biển sấy mè,24000,0,"Thơm mè, không cay; gói 40g.","{""vị"": ""không cay"", ""khối lượng"": ""40g"", ""loại"": ""ăn liền""}",1
+F011,Snack khoai tây phô mai,19000,27,"Vị phô mai, không cay; gói 55g.","{""vị"": ""không cay"", ""khối lượng"": ""55g"", ""loại"": ""snack""}",1
+F012,Snack khoai tây cay,19000,16,Vị cay; gói 55g.,"{""vị"": ""cay"", ""khối lượng"": ""55g"", ""loại"": ""snack""}",1
+F013,Bắp rang bơ,25000,8,"Ngọt, không cay; hộp 100g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""snack""}",1
+F014,Bắp rang caramel,29000,7,"Ngọt caramel, không cay; hộp 100g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""snack""}",1
+F015,Xoài sấy dẻo,45000,20,"Chua ngọt, không cay; túi 100g.","{""vị"": ""chua ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""trái cây sấy""}",1
+F016,Mít sấy giòn,48000,6,"Ngọt nhẹ, không cay; túi 100g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""trái cây sấy""}",1
+F017,Chuối sấy mật ong,39000,0,"Ngọt, không cay; túi 100g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""trái cây sấy""}",1
+F018,Me rim đường,33000,17,"Chua ngọt, không cay; hũ 150g.","{""vị"": ""chua ngọt không cay"", ""khối lượng"": ""150g"", ""loại"": ""ô mai""}",1
+F019,Ô mai mận xí muội,36000,13,"Chua mặn ngọt, không cay; hũ 120g.","{""vị"": ""chua mặn ngọt không cay"", ""khối lượng"": ""120g"", ""loại"": ""ô mai""}",1
+F020,Kẹo dẻo trái cây,23000,25,"Ngọt, không cay; túi 100g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""kẹo""}",1
+F021,Kẹo bạc hà viên,18000,12,"Mát bạc hà, không cay; hộp 50g.","{""vị"": ""mát không cay"", ""khối lượng"": ""50g"", ""loại"": ""kẹo""}",1
+F022,Bánh gạo rong biển,26000,15,"Giòn, không cay; túi 90g.","{""vị"": ""không cay"", ""khối lượng"": ""90g"", ""loại"": ""bánh""}",1
+F023,Bánh gạo sốt cay,29000,0,Vị cay đậm; túi 90g.,"{""vị"": ""cay"", ""khối lượng"": ""90g"", ""loại"": ""bánh""}",1
+F024,Hạt điều rang muối,65000,19,"Bùi, mặn nhẹ, không cay; túi 150g.","{""vị"": ""không cay"", ""khối lượng"": ""150g"", ""loại"": ""hạt""}",1
+F025,Đậu phộng da cá,34000,10,"Giòn, không cay; túi 140g.","{""vị"": ""không cay"", ""khối lượng"": ""140g"", ""loại"": ""hạt""}",1
+F026,Đậu phộng tỏi ớt,35000,9,"Giòn, cay nhẹ; túi 140g.","{""vị"": ""cay nhẹ"", ""khối lượng"": ""140g"", ""loại"": ""hạt""}",1
+F027,Mực rim me,79000,4,"Chua ngọt, cay nhẹ; túi 100g.","{""vị"": ""cay nhẹ"", ""khối lượng"": ""100g"", ""loại"": ""đồ khô""}",1
+F028,Cá cơm rim tỏi,69000,0,"Mặn ngọt, cay nhẹ; túi 100g.","{""vị"": ""cay nhẹ"", ""khối lượng"": ""100g"", ""loại"": ""đồ khô""}",1
+F029,Bánh quy bơ mini,37000,22,"Thơm bơ, không cay; hộp 120g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""120g"", ""loại"": ""bánh""}",1
+F030,Bánh hạnh nhân lát,55000,5,"Giòn, ngọt nhẹ, không cay; hộp 100g.","{""vị"": ""ngọt không cay"", ""khối lượng"": ""100g"", ""loại"": ""bánh""}",1

@@ -1,0 +1,65 @@
+{"case_id": "H24-001", "category": "new_domain_keyword", "store_id": "motor", "query": "Xin xem Dung dịch làm mát động cơ", "expected_product_ids": ["shared"]}
+{"case_id": "H24-002", "category": "new_domain_keyword", "store_id": "motor", "query": "Xin xem Khăn lau kính xe", "expected_product_ids": ["cloth"]}
+{"case_id": "H24-003", "category": "new_domain_keyword", "store_id": "music", "query": "Xin xem Dây đàn guitar đồng", "expected_product_ids": ["strings"]}
+{"case_id": "H24-004", "category": "new_domain_keyword", "store_id": "music", "query": "Xin xem Giá kê bản nhạc", "expected_product_ids": ["stand"]}
+{"case_id": "H24-005", "category": "new_domain_keyword", "store_id": "music", "query": "Xin xem Bộ micro sân khấu", "expected_product_ids": ["radio"]}
+{"case_id": "H24-006", "category": "new_domain_keyword", "store_id": "music", "query": "Xin xem Micro cổng XLR", "expected_product_ids": ["xlr"]}
+{"case_id": "H24-007", "category": "new_domain_keyword", "store_id": "lab", "query": "Xin xem Ống đong thủy tinh", "expected_product_ids": ["shared"]}
+{"case_id": "H24-008", "category": "new_domain_keyword", "store_id": "lab", "query": "Xin xem Cân bàn thí nghiệm", "expected_product_ids": ["scale"]}
+{"case_id": "H24-009", "category": "new_domain_keyword", "store_id": "safety", "query": "Xin xem Mặt nạ lọc bụi", "expected_product_ids": ["mask"]}
+{"case_id": "H24-010", "category": "new_domain_keyword", "store_id": "safety", "query": "Xin xem Kính chắn giọt bắn", "expected_product_ids": ["glass"]}
+{"case_id": "H24-011", "category": "new_domain_keyword", "store_id": "aquarium", "query": "Xin xem Bơm tuần hoàn bể cá", "expected_product_ids": ["pump"]}
+{"case_id": "H24-012", "category": "new_domain_keyword", "store_id": "aquarium", "query": "Xin xem Đèn thanh hồ thủy sinh", "expected_product_ids": ["lamp"]}
+{"case_id": "H24-013", "category": "new_domain_keyword", "store_id": "cycling", "query": "Xin xem Lốp xe đường trường", "expected_product_ids": ["tire"]}
+{"case_id": "H24-014", "category": "new_domain_keyword", "store_id": "cycling", "query": "Xin xem Bình xịt vệ sinh sên", "expected_product_ids": ["spray"]}
+{"case_id": "H24-015", "category": "new_domain_keyword", "store_id": "sewing", "query": "Xin xem Suốt chỉ máy may", "expected_product_ids": ["spool"]}
+{"case_id": "H24-016", "category": "new_domain_keyword", "store_id": "sewing", "query": "Xin xem Thước dây may", "expected_product_ids": ["tape"]}
+{"case_id": "H24-017", "category": "new_domain_keyword", "store_id": "irrigation", "query": "Xin xem Béc tưới phun sương", "expected_product_ids": ["nozzle"]}
+{"case_id": "H24-018", "category": "new_domain_keyword", "store_id": "irrigation", "query": "Xin xem Ống dẫn tưới", "expected_product_ids": ["pipe"]}
+{"case_id": "H24-019", "category": "new_domain_keyword", "store_id": "welding", "query": "Xin xem Que hàn thép", "expected_product_ids": ["rod"]}
+{"case_id": "H24-020", "category": "new_domain_keyword", "store_id": "welding", "query": "Xin xem Găng tay da hàn", "expected_product_ids": ["glove"]}
+{"case_id": "H24-021", "category": "new_domain_keyword", "store_id": "meeting", "query": "Xin xem Bộ thu trình chiếu", "expected_product_ids": ["receiver"]}
+{"case_id": "H24-022", "category": "new_domain_keyword", "store_id": "meeting", "query": "Xin xem Bộ chia HDMI", "expected_product_ids": ["splitter"]}
+{"case_id": "H24-023", "category": "availability", "store_id": "motor", "query": "dung dịch làm mát còn sẵn", "expected_product_ids": ["shared"]}
+{"case_id": "H24-024", "category": "availability", "store_id": "motor", "query": "khăn lau còn sẵn", "expected_product_ids": []}
+{"case_id": "H24-025", "category": "availability_question", "store_id": "music", "query": "giá kê bản nhạc có sẵn không?", "expected_product_ids": ["stand"]}
+{"case_id": "H24-026", "category": "availability", "store_id": "welding", "query": "găng tay hết hàng", "expected_product_ids": ["glove"]}
+{"case_id": "H24-027", "category": "price_range", "store_id": "music", "query": "micro giá 790-1890k", "expected_product_ids": ["radio", "xlr"]}
+{"case_id": "H24-028", "category": "price_range", "store_id": "cycling", "query": "ngân sách 0,11 triệu bình xịt", "expected_product_ids": ["spray"]}
+{"case_id": "H24-029", "category": "price_strict", "store_id": "lab", "query": "ống đong dưới 76 nghìn", "expected_product_ids": []}
+{"case_id": "H24-030", "category": "price_inclusive", "store_id": "lab", "query": "ống đong ≤ 76.000đ", "expected_product_ids": ["shared"]}
+{"case_id": "H24-031", "category": "price_shorthand", "store_id": "music", "query": "micro không quá 1tr9", "expected_product_ids": ["radio", "xlr"]}
+{"case_id": "H24-032", "category": "price_contradiction", "store_id": "meeting", "query": "bộ thu trên 1 triệu", "expected_product_ids": [], "filters": {"max_price": 1000000}}
+{"case_id": "H24-033", "category": "volume", "store_id": "motor", "query": "dung dịch dung tích 1250ml", "expected_product_ids": ["shared"]}
+{"case_id": "H24-034", "category": "length", "store_id": "music", "query": "giá kê chiều dài 120cm", "expected_product_ids": ["stand"]}
+{"case_id": "H24-035", "category": "mass", "store_id": "lab", "query": "cân", "expected_product_ids": ["scale"], "filters": {"attributes": {"khối lượng": "0,75kg"}}}
+{"case_id": "H24-036", "category": "power", "store_id": "aquarium", "query": "bơm công suất 25W", "expected_product_ids": ["pump"]}
+{"case_id": "H24-037", "category": "length", "store_id": "irrigation", "query": "ống dẫn chiều dài 2500cm", "expected_product_ids": ["pipe"]}
+{"case_id": "H24-038", "category": "diameter", "store_id": "irrigation", "query": "béc tưới đường kính 0,8cm", "expected_product_ids": ["nozzle"]}
+{"case_id": "H24-039", "category": "storage", "store_id": "meeting", "query": "bộ thu dung lượng 0,064TB", "expected_product_ids": ["receiver"]}
+{"case_id": "H24-040", "category": "wireless", "store_id": "music", "query": "micro không dây", "expected_product_ids": ["radio"]}
+{"case_id": "H24-041", "category": "wireless_spelling", "store_id": "music", "query": "micro blutooth", "expected_product_ids": ["radio"]}
+{"case_id": "H24-042", "category": "wireless_wifi", "store_id": "meeting", "query": "bộ thu không dây", "expected_product_ids": ["receiver"]}
+{"case_id": "H24-043", "category": "no_invented_wireless", "store_id": "meeting", "query": "bộ chia không dây", "expected_product_ids": []}
+{"case_id": "H24-044", "category": "mandatory_missing_field", "store_id": "cycling", "query": "lốp công suất 25W", "expected_product_ids": []}
+{"case_id": "H24-045", "category": "mandatory_color", "store_id": "welding", "query": "găng tay màu đen", "expected_product_ids": []}
+{"case_id": "H24-046", "category": "mandatory_stock", "store_id": "welding", "query": "găng tay màu nâu size XL còn sẵn", "expected_product_ids": []}
+{"case_id": "H24-047", "category": "multi_attribute", "store_id": "safety", "query": "kính", "expected_product_ids": ["glass"], "filters": {"in_stock": true, "attributes": {"color": "trong suốt"}}}
+{"case_id": "H24-048", "category": "category_db", "store_id": "sewing", "query": "vật tư may còn sẵn", "expected_product_ids": ["spool"]}
+{"case_id": "H24-049", "category": "category_db", "store_id": "irrigation", "query": "vật tư tưới trên 100k", "expected_product_ids": ["pipe"]}
+{"case_id": "H24-050", "category": "category_db", "store_id": "cycling", "query": "phụ kiện xe đạp không quá 120k", "expected_product_ids": ["spray"]}
+{"case_id": "H24-051", "category": "tenant", "store_id": "motor", "query": "ống đong thủy tinh", "expected_product_ids": []}
+{"case_id": "H24-052", "category": "tenant", "store_id": "lab", "query": "dung dịch làm mát động cơ", "expected_product_ids": []}
+{"case_id": "H24-053", "category": "tenant_sku", "store_id": "motor", "query": "shared", "expected_product_ids": ["shared"]}
+{"case_id": "H24-054", "category": "tenant_sku", "store_id": "lab", "query": "shared", "expected_product_ids": ["shared"]}
+{"case_id": "H24-055", "category": "unknown_tenant", "store_id": "absent", "query": "menu", "expected_product_ids": []}
+{"case_id": "H24-056", "category": "sql_injection", "store_id": "lab", "query": "shared'; SELECT * FROM products --", "expected_product_ids": []}
+{"case_id": "H24-057", "category": "live_price", "store_id": "safety", "query": "mặt nạ dưới 300k", "expected_product_ids": ["mask"], "mutations": [{"store_id": "safety", "id": "mask", "values": {"price_vnd": 290000}}]}
+{"case_id": "H24-058", "category": "live_stock", "store_id": "music", "query": "dây đàn còn sẵn", "expected_product_ids": [], "mutations": [{"store_id": "music", "id": "strings", "values": {"stock": 0}}]}
+{"case_id": "H24-059", "category": "live_active", "store_id": "aquarium", "query": "bơm tuần hoàn", "expected_product_ids": [], "mutations": [{"store_id": "aquarium", "id": "pump", "values": {"active": 0}}]}
+{"case_id": "H24-060", "category": "live_attributes", "store_id": "motor", "query": "dung dịch", "expected_product_ids": ["shared"], "filters": {"attributes": {"capacity": "2L"}}, "mutations": [{"store_id": "motor", "id": "shared", "values": {"attributes": {"dung tích": "2000ml"}}}]}
+{"case_id": "H24-061", "category": "unknown_product", "store_id": "welding", "query": "máy ép viên dưới 5 triệu", "expected_product_ids": []}
+{"case_id": "H24-062", "category": "dimension_mismatch", "store_id": "lab", "query": "ống đong", "expected_product_ids": [], "filters": {"attributes": {"capacity": "250g"}}}
+{"case_id": "H24-063", "category": "new_paraphrase", "store_id": "safety", "query": "đồ bảo vệ hô hấp", "expected_product_ids": ["mask"]}
+{"case_id": "H24-064", "category": "new_size_syntax", "store_id": "cycling", "query": "lốp cỡ 700C", "expected_product_ids": ["tire"]}
+{"case_id": "H24-065", "category": "new_category_paraphrase", "store_id": "welding", "query": "đồ bảo hộ cho thợ hàn", "expected_product_ids": ["glove"]}

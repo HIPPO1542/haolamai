@@ -1,0 +1,12 @@
+{
+  "source": "https://github.com/wayfair/WANDS",
+  "revision": "3b74dcf4ba29ab8ff3e6a50b5b09fc627cb882b5",
+  "license": "MIT",
+  "purpose": "English retrieval/ranking evaluation only; not chatbot SFT",
+  "sha256": {
+    "dataset/product.csv": "407518fccb6e904245874037de5fe4201aa92016797c06009403601c78b42569",
+    "dataset/query.csv": "00a39d2c21dd2f375678c4c36ffc7aa2270011f2557d69ab11fa09f8d1010d9b",
+    "dataset/label.csv": "19a6d78ccd19517ce547cbd143cc839a0910483285ac5c74090933aa240e0123",
+    "LICENSE": "4e324cb62025583e8c418decd9b7fffb02ffd33cd3af04eb9906e1692ad8e65f"
+  }
+}

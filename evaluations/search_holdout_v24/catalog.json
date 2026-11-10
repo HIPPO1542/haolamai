@@ -1,0 +1,244 @@
+[
+  {
+    "store_id": "motor",
+    "id": "shared",
+    "name": "Dung dịch làm mát động cơ",
+    "price_vnd": 185000,
+    "stock": 5,
+    "attributes": {
+      "dung tích": "1.25L",
+      "loại": "chăm sóc ô tô"
+    }
+  },
+  {
+    "store_id": "motor",
+    "id": "cloth",
+    "name": "Khăn lau kính xe",
+    "price_vnd": 45000,
+    "stock": 0,
+    "attributes": {
+      "chiều dài": "0.4m",
+      "loại": "chăm sóc ô tô"
+    }
+  },
+  {
+    "store_id": "music",
+    "id": "strings",
+    "name": "Dây đàn guitar đồng",
+    "price_vnd": 95000,
+    "stock": 6,
+    "attributes": {
+      "thương hiệu": "Aurora",
+      "loại": "phụ kiện nhạc cụ"
+    }
+  },
+  {
+    "store_id": "music",
+    "id": "stand",
+    "name": "Giá kê bản nhạc",
+    "price_vnd": 260000,
+    "stock": 0,
+    "attributes": {
+      "chiều dài": "1.2m",
+      "chất liệu": "nhôm"
+    }
+  },
+  {
+    "store_id": "music",
+    "id": "radio",
+    "name": "Bộ micro sân khấu",
+    "price_vnd": 1890000,
+    "stock": 2,
+    "attributes": {
+      "kết nối": "Bluetooth 5.3",
+      "màu": "đen"
+    }
+  },
+  {
+    "store_id": "music",
+    "id": "xlr",
+    "name": "Micro cổng XLR",
+    "price_vnd": 790000,
+    "stock": 3,
+    "attributes": {
+      "kết nối": "XLR",
+      "màu": "đen"
+    }
+  },
+  {
+    "store_id": "lab",
+    "id": "shared",
+    "name": "Ống đong thủy tinh",
+    "price_vnd": 76000,
+    "stock": 9,
+    "attributes": {
+      "dung tích": "250ml",
+      "chất liệu": "thủy tinh"
+    }
+  },
+  {
+    "store_id": "lab",
+    "id": "scale",
+    "name": "Cân bàn thí nghiệm",
+    "price_vnd": 640000,
+    "stock": 0,
+    "attributes": {
+      "khối lượng": "750g"
+    }
+  },
+  {
+    "store_id": "safety",
+    "id": "mask",
+    "name": "Mặt nạ lọc bụi",
+    "price_vnd": 390000,
+    "stock": 2,
+    "attributes": {
+      "tiêu chuẩn": "P2",
+      "loại": "bảo hộ lao động"
+    }
+  },
+  {
+    "store_id": "safety",
+    "id": "glass",
+    "name": "Kính chắn giọt bắn",
+    "price_vnd": 85000,
+    "stock": 20,
+    "attributes": {
+      "màu": "trong suốt",
+      "loại": "bảo hộ lao động"
+    }
+  },
+  {
+    "store_id": "aquarium",
+    "id": "pump",
+    "name": "Bơm tuần hoàn bể cá",
+    "price_vnd": 470000,
+    "stock": 3,
+    "attributes": {
+      "công suất": "0.025kW",
+      "loại": "thiết bị thủy sinh"
+    }
+  },
+  {
+    "store_id": "aquarium",
+    "id": "lamp",
+    "name": "Đèn thanh hồ thủy sinh",
+    "price_vnd": 330000,
+    "stock": 0,
+    "attributes": {
+      "công suất": "18W",
+      "chiều dài": "60cm"
+    }
+  },
+  {
+    "store_id": "cycling",
+    "id": "tire",
+    "name": "Lốp xe đường trường",
+    "price_vnd": 520000,
+    "stock": 4,
+    "attributes": {
+      "loại": "phụ kiện xe đạp",
+      "size": "700C"
+    }
+  },
+  {
+    "store_id": "cycling",
+    "id": "spray",
+    "name": "Bình xịt vệ sinh sên",
+    "price_vnd": 110000,
+    "stock": 5,
+    "attributes": {
+      "dung tích": "400ml",
+      "loại": "phụ kiện xe đạp"
+    }
+  },
+  {
+    "store_id": "sewing",
+    "id": "spool",
+    "name": "Suốt chỉ máy may",
+    "price_vnd": 5000,
+    "stock": 60,
+    "attributes": {
+      "chất liệu": "thép",
+      "loại": "vật tư may"
+    }
+  },
+  {
+    "store_id": "sewing",
+    "id": "tape",
+    "name": "Thước dây may",
+    "price_vnd": 12000,
+    "stock": 0,
+    "attributes": {
+      "chiều dài": "150cm",
+      "loại": "vật tư may"
+    }
+  },
+  {
+    "store_id": "irrigation",
+    "id": "nozzle",
+    "name": "Béc tưới phun sương",
+    "price_vnd": 22000,
+    "stock": 100,
+    "attributes": {
+      "đường kính": "8mm",
+      "loại": "vật tư tưới"
+    }
+  },
+  {
+    "store_id": "irrigation",
+    "id": "pipe",
+    "name": "Ống dẫn tưới",
+    "price_vnd": 145000,
+    "stock": 8,
+    "attributes": {
+      "chiều dài": "25m",
+      "đường kính": "8mm",
+      "loại": "vật tư tưới"
+    }
+  },
+  {
+    "store_id": "welding",
+    "id": "rod",
+    "name": "Que hàn thép",
+    "price_vnd": 140000,
+    "stock": 6,
+    "attributes": {
+      "khối lượng": "2kg",
+      "loại": "vật tư hàn"
+    }
+  },
+  {
+    "store_id": "welding",
+    "id": "glove",
+    "name": "Găng tay da hàn",
+    "price_vnd": 190000,
+    "stock": 0,
+    "attributes": {
+      "màu": "nâu",
+      "size": "XL",
+      "loại": "bảo hộ hàn"
+    }
+  },
+  {
+    "store_id": "meeting",
+    "id": "receiver",
+    "name": "Bộ thu trình chiếu",
+    "price_vnd": 960000,
+    "stock": 4,
+    "attributes": {
+      "kết nối": "Wi-Fi 5GHz",
+      "dung lượng": "64GB"
+    }
+  },
+  {
+    "store_id": "meeting",
+    "id": "splitter",
+    "name": "Bộ chia HDMI",
+    "price_vnd": 245000,
+    "stock": 6,
+    "attributes": {
+      "kết nối": "HDMI"
+    }
+  }
+]

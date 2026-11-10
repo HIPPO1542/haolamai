@@ -1,0 +1,30 @@
+{
+  "version": "2.4",
+  "query_replacements": {
+    "ko": "khong", "khg": "khong", "hok": "khong",
+    "bluetooh": "bluetooth", "blutooth": "bluetooth",
+    "tainghe": "tai nghe", "sanpham": "san pham", "sam pham": "san pham"
+  },
+  "categories": [
+    {
+      "id": "cat_hygiene",
+      "query_phrases": ["do ve sinh cho meo", "san pham ve sinh cho meo", "do ve sinh meo"],
+      "catalog_phrases": ["cat meo", "khay ve sinh meo", "xeng xuc cat", "ta lot meo"]
+    },
+    {
+      "id": "dog_nutrition",
+      "query_phrases": ["do an cho cho", "thuc pham cho cho"],
+      "catalog_phrases": ["thuc an cho cho", "hat cho cho", "pate cho cho"]
+    },
+    {
+      "id": "writing_supplies",
+      "query_phrases": ["do dung viet", "dung cu viet"],
+      "catalog_phrases": ["but chi", "but bi", "but may", "but gel", "but da"]
+    },
+    {
+      "id": "cookware",
+      "query_phrases": ["dung cu nau an", "do dung nau bep"],
+      "catalog_phrases": ["noi nau", "noi inox", "chao", "xung hap", "noi gang"]
+    }
+  ]
+}

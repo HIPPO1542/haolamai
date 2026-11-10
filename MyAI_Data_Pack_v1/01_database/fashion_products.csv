@@ -1,0 +1,31 @@
+﻿id,name,price_vnd,stock,description,attributes_json,active
+A001,Áo thun cotton cổ tròn đen size M,159000,18,"Cotton 95%, co giãn nhẹ.","{""loại"": ""áo thun"", ""màu"": ""đen"", ""size"": ""M"", ""chất liệu"": ""cotton 95%""}",1
+A002,Áo thun cotton cổ tròn đen size L,159000,9,"Cotton 95%, co giãn nhẹ.","{""loại"": ""áo thun"", ""màu"": ""đen"", ""size"": ""L"", ""chất liệu"": ""cotton 95%""}",1
+A003,Áo thun cotton cổ tròn trắng size M,159000,0,"Cotton 95%, co giãn nhẹ.","{""loại"": ""áo thun"", ""màu"": ""trắng"", ""size"": ""M"", ""chất liệu"": ""cotton 95%""}",1
+A004,Áo polo piqué xanh navy size L,229000,7,"Vải piqué, cổ bẻ.","{""loại"": ""áo polo"", ""màu"": ""xanh navy"", ""size"": ""L"", ""chất liệu"": ""piqué""}",1
+A005,Áo polo piqué kem size M,229000,12,"Vải piqué, cổ bẻ.","{""loại"": ""áo polo"", ""màu"": ""kem"", ""size"": ""M"", ""chất liệu"": ""piqué""}",1
+A006,Áo sơ mi linen be size M,269000,13,"Linen pha, dáng suông.","{""loại"": ""áo sơ mi"", ""màu"": ""be"", ""size"": ""M"", ""chất liệu"": ""linen pha""}",1
+A007,Áo sơ mi linen be size XL,269000,0,"Linen pha, dáng suông.","{""loại"": ""áo sơ mi"", ""màu"": ""be"", ""size"": ""XL"", ""chất liệu"": ""linen pha""}",1
+A008,Áo sơ mi oxford trắng size L,289000,8,"Cotton oxford, tay dài.","{""loại"": ""áo sơ mi"", ""màu"": ""trắng"", ""size"": ""L"", ""chất liệu"": ""oxford""}",1
+A009,Áo hoodie nỉ xám size M,329000,11,"Nỉ da cá, có mũ.","{""loại"": ""áo hoodie"", ""màu"": ""xám"", ""size"": ""M"", ""chất liệu"": ""nỉ da cá""}",1
+A010,Áo hoodie nỉ xám size XL,329000,3,"Nỉ da cá, có mũ.","{""loại"": ""áo hoodie"", ""màu"": ""xám"", ""size"": ""XL"", ""chất liệu"": ""nỉ da cá""}",1
+A011,Áo khoác dù đen size L,379000,6,"Vải dù nhẹ, có khóa kéo.","{""loại"": ""áo khoác"", ""màu"": ""đen"", ""size"": ""L"", ""chất liệu"": ""vải dù""}",1
+A012,Áo khoác denim xanh size M,429000,0,"Denim dày vừa, hai túi ngực.","{""loại"": ""áo khoác"", ""màu"": ""xanh"", ""size"": ""M"", ""chất liệu"": ""denim""}",1
+A013,Áo cardigan len kem size S,310000,5,"Len dệt mỏng, cài nút.","{""loại"": ""cardigan"", ""màu"": ""kem"", ""size"": ""S"", ""chất liệu"": ""len dệt""}",1
+A014,Áo cardigan len nâu size M,310000,8,"Len dệt mỏng, cài nút.","{""loại"": ""cardigan"", ""màu"": ""nâu"", ""size"": ""M"", ""chất liệu"": ""len dệt""}",1
+A015,Quần jean straight xanh size 29,399000,14,"Denim co giãn nhẹ, ống đứng.","{""loại"": ""quần jean"", ""màu"": ""xanh"", ""size"": ""29"", ""chất liệu"": ""denim""}",1
+A016,Quần jean straight xanh size 31,399000,4,"Denim co giãn nhẹ, ống đứng.","{""loại"": ""quần jean"", ""màu"": ""xanh"", ""size"": ""31"", ""chất liệu"": ""denim""}",1
+A017,Quần jean đen slim size 30,409000,0,"Denim co giãn, dáng slim.","{""loại"": ""quần jean"", ""màu"": ""đen"", ""size"": ""30"", ""chất liệu"": ""denim""}",1
+A018,Quần kaki ống suông be size 30,349000,10,"Kaki mềm, ống suông.","{""loại"": ""quần kaki"", ""màu"": ""be"", ""size"": ""30"", ""chất liệu"": ""kaki""}",1
+A019,Quần kaki ống suông đen size 32,349000,2,"Kaki mềm, ống suông.","{""loại"": ""quần kaki"", ""màu"": ""đen"", ""size"": ""32"", ""chất liệu"": ""kaki""}",1
+A020,Quần short kaki xanh rêu size L,239000,16,"Kaki nhẹ, cạp chun.","{""loại"": ""quần short"", ""màu"": ""xanh rêu"", ""size"": ""L"", ""chất liệu"": ""kaki""}",1
+A021,Quần short thể thao đen size XL,199000,0,"Polyester thoáng, cạp chun.","{""loại"": ""quần short"", ""màu"": ""đen"", ""size"": ""XL"", ""chất liệu"": ""polyester""}",1
+A022,Chân váy chữ A đen size S,259000,8,"Kaki nhẹ, dáng chữ A.","{""loại"": ""chân váy"", ""màu"": ""đen"", ""size"": ""S"", ""chất liệu"": ""kaki""}",1
+A023,Chân váy chữ A đen size M,259000,6,"Kaki nhẹ, dáng chữ A.","{""loại"": ""chân váy"", ""màu"": ""đen"", ""size"": ""M"", ""chất liệu"": ""kaki""}",1
+A024,Chân váy midi xếp ly be size M,319000,7,"Vải poly mềm, có lớp lót.","{""loại"": ""chân váy"", ""màu"": ""be"", ""size"": ""M"", ""chất liệu"": ""poly""}",1
+A025,Đầm suông linen xanh size M,419000,4,"Linen pha, tay ngắn.","{""loại"": ""đầm"", ""màu"": ""xanh"", ""size"": ""M"", ""chất liệu"": ""linen pha""}",1
+A026,Đầm hoa nhí kem size S,439000,0,"Voan có lót, tay ngắn.","{""loại"": ""đầm"", ""màu"": ""kem"", ""size"": ""S"", ""chất liệu"": ""voan""}",1
+A027,Váy yếm denim xanh size M,389000,9,"Denim mềm, dây điều chỉnh.","{""loại"": ""váy yếm"", ""màu"": ""xanh"", ""size"": ""M"", ""chất liệu"": ""denim""}",1
+A028,Áo tank top rib trắng size S,139000,23,Thun rib co giãn.,"{""loại"": ""áo tank top"", ""màu"": ""trắng"", ""size"": ""S"", ""chất liệu"": ""thun rib""}",1
+A029,Áo tank top rib đen size M,139000,10,Thun rib co giãn.,"{""loại"": ""áo tank top"", ""màu"": ""đen"", ""size"": ""M"", ""chất liệu"": ""thun rib""}",1
+A030,Áo blouse tay phồng hồng size M,279000,6,"Vải tơ xốp, tay phồng.","{""loại"": ""áo blouse"", ""màu"": ""hồng"", ""size"": ""M"", ""chất liệu"": ""tơ xốp""}",1

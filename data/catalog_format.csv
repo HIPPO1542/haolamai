@@ -1,0 +1,3 @@
+id,name,price_vnd,stock,description,attributes_json,active
+tee-001,Áo thun cotton,150000,17,Co giãn nhẹ,"{""size"": [""S"", ""M"", ""L"", ""XL""], ""màu"": [""đen"", ""trắng""]}",1
+tee-002,Áo sơ mi linen,220000,10,Vải linen thoáng,"{""size"": [""M"", ""L""]}",1

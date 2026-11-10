@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-11-09T07:46:30.106576+00:00",
+  "cases": 42,
+  "policy": "New author-created holdout after development. Do not modify algorithm after seeing results; failures remain open.",
+  "sha256": {
+    "myai\\retrieval.py": "b5da7ae2e10980491ca9e52a80c0c841d670825d7dadfde396ae180a9f5dff74",
+    "myai\\db.py": "979ece8e7c4358a1af70f50707c1dfbf38a255858232254f456271996345e1c7",
+    "myai\\text_index.py": "5e8e7769492bbe5135bee7c959d918c35ba63527a44c87d9058fe81ed5fc3666",
+    "evaluations\\search_holdout_v23\\catalog.json": "ef008a78096c0741c5a73e38c21efc8d829b1872afe9da06b42481690b80b362",
+    "evaluations\\search_holdout_v23\\cases.jsonl": "d14dc6654e6e97236137c8386c3fe57906b4f87c6ef478236aa5eeb0f96d061d"
+  }
+}

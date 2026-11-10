@@ -1,0 +1,10 @@
+{
+  "status": "candidate_pending_human_content_privacy_and_rights_approval",
+  "local_candidate": "outputs/v2_4/sft_candidate_final",
+  "gpu_destination": "private_data/myai-v24",
+  "train": {"rows": 3866, "bytes": 6294451, "sha256": "f59f58742189f7f3f4cc00671d091de08813ead0c19b4f64a372644e6cb7b402"},
+  "validation": {"rows": 263, "bytes": 370693, "sha256": "b817b0aa19a8787432eacae00c0649607f3eaf488ee57837da8973d69b6c1dec"},
+  "external_test_rows_not_transferred": 1033,
+  "myai_regression_cases_not_trained": 126,
+  "publish_splits_to_github": false
+}

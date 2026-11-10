@@ -1,0 +1,17 @@
+{
+  "pack_version": "1.0",
+  "generated": "2026-11-09",
+  "license_note": "Tất cả dữ liệu sản phẩm, chính sách và ví dụ trong pack do dự án tạo giả lập; không được xem là chính sách cửa hàng thật.",
+  "stores": 2,
+  "food_products": 30,
+  "fashion_products": 30,
+  "policies": 12,
+  "supplemental_train": 884,
+  "supplemental_validation": 143,
+  "heldout_evaluation": 126,
+  "sft_format": "TRL prompt/completion (matching MyAI v0.3 scripts.finetune)",
+  "sft_product_names_overlap_with_eval": false,
+  "external_datasets": "Hai dataset đã tải riêng trên máy người dùng KHÔNG được tự động nhập hay thay đổi; cần chuẩn hóa và kiểm tra bản quyền, trùng lặp trước khi gộp.",
+  "warning": "Không huấn luyện trực tiếp trên các câu hỏi ở 04_evaluation. Các nhãn test chỉ là tiêu chí kiểm tra; không khẳng định tất cả sẽ pass.",
+  "removed_exact_duplicates": 54
+}

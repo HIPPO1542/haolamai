@@ -1,0 +1,23 @@
+{
+  "cases": 120,
+  "distinct_products": 30,
+  "skills": [
+    "attribute_update",
+    "comparison",
+    "filter",
+    "lookup_price",
+    "lookup_stock",
+    "missing_attribute",
+    "multiturn_comparison",
+    "policy",
+    "price_update",
+    "scope",
+    "stock_update",
+    "unexecuted_action"
+  ],
+  "sha256": "bbdd44106a66dbcad7006a8515d61a12ac324ece7853d59da57c74652883cca1",
+  "product_names_absent_from_train": true,
+  "oracle_fact_consistency_checked": true,
+  "real_qwen_inference_executed": false,
+  "not_for_training": true
+}
